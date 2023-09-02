@@ -24,3 +24,6 @@ ROS还没有学明白，相关题目完善度底
 该部分调参过程见yolo文件里的md
 
 成功detect输出结果见百度网盘链接：
+链接：https://pan.baidu.com/s/1tRMC3LPAWW55ZwFHPo0Z7A 
+提取码：bl77 
+
