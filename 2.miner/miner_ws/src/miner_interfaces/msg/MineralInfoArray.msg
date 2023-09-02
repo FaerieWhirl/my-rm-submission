@@ -1,0 +1,1 @@
+MineralInfo[] minerals

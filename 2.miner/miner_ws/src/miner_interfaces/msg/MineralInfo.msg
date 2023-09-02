@@ -1,0 +1,4 @@
+int32 mineral_id
+string mineral_type
+geometry_msgs/Point mineral_position
+float64 mineral_value
